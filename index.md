@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Q-Learning Pacman CTF](/sample_page)
-<img src="images/976A1A6C-12F2-4D12-AE0C-1FE50E1082DE.jpeg"/>
+<img src="images/EE64E0B8-6281-48F7-AF83-AD7BEE1F2BCA.jpeg"/>
 
 ---
 [Treaps- Randomized Binary Search Trees](/pdf/sample_presentation.pdf)
