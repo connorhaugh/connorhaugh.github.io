@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Q-Learning Pacman CTF](/sample_page)
+<img src="images/dummy_thumb>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Treaps- Randomized Binary Search Trees](/pdf/sample_presentation.pdf)
 
 
 ---
