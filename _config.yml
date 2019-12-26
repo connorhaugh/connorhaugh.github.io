@@ -1,11 +1,11 @@
 title: Connor Haugh # your name (or website title) here
 logo: "/images/55C7C343-B9E4-464C-ABC8-15566BC65940.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Connor Haugh is a Computer Science and History Double Major At Amherst College. I like doing fun stuff with computers.
   <br><br>
-  Second description 
+  This is up to date as of 1/1/2020 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/connor-haugh/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
