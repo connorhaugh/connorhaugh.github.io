@@ -9,11 +9,11 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [My Journalism](https://amherststudent.com/article/racism-in-italian-soccer-balotelli-lukaku-and-radical-ultras)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/C311CE21-43EE-4B8B-AC1D-8D65719332DA.jpeg"/>
 
 ---
 
