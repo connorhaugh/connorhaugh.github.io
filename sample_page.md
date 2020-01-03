@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## SAFERIDE
 
 **SafeRide:** SafeRide is an ongoing project to make a one-page React app for an existing ridesharing service on Amherst's campus. Due to network security concerns entirely unrelated to SafeRide, the Amherst IT department requires that SafeRide cannot be open-source if it is ever to be put in use. This, however, will attempt to demonstrate the app.
 
