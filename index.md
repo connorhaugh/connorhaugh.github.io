@@ -8,7 +8,7 @@
 <img src="images/EE64E0B8-6281-48F7-AF83-AD7BEE1F2BCA.jpeg"/>
 
 ---
-[Treaps- Randomized Binary Search Trees](/pdf/sample_presentation.pdf)
+[SAFERIDE](/pdf/sample_presentation.pdf)
 
 ---
 [My Journalism](https://amherststudent.com/article/racism-in-italian-soccer-balotelli-lukaku-and-radical-ultras)
