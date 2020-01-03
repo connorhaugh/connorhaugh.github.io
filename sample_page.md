@@ -13,7 +13,7 @@ I had just finished a CodeCademy course on react, and was excited to try to deve
 
 ```<h1>SAFERIDE</h1>
 ```
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/reactapp.jpeg.jpg?raw=true"/>
 
 ### 3. It then required a back-end
 
