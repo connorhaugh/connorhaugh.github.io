@@ -2,26 +2,21 @@
 
 ---
 
-### Category Name 1 
-
+### My Projects
 [Q-Learning Pacman CTF](https://github.com/connorhaugh/CTFTEAM)
 <img src="images/EE64E0B8-6281-48F7-AF83-AD7BEE1F2BCA.jpeg"/>
 
 ---
-[SAFERIDE](/sample_page)
+[MyMons]()
+A simple Android app in Kotlin which allows users to quickly calculate weakness and resistances of thier pokemon teams, and share thier teams with thier friends using a  Firebase (NoSQL) database backend. 
+
+---
+[Secure File Transfer Application](https://github.com/connorhaugh/cryptofinal)
+A Python project which allowed authenticated remote clients to manage a filesystem with confirmed confidentiality while maintaining message integrity in the communication protocol. Could not be cracked by the security expert who discovered the Duqu virus within the parameters of the exercise.
 
 ---
 [My Journalism](https://amherststudent.com/article/racism-in-italian-soccer-balotelli-lukaku-and-radical-ultras)
 <img src="images/C311CE21-43EE-4B8B-AC1D-8D65719332DA.jpeg"/>
-
----
-[Page Swapping](/sample_page)
-This was a quick combo-project of my systems and AI coursework, based off the idea that a passive learning agent might learn a lot by watching a file system make LRU choices to a system (as there is a clear policy in place). The learner watches which pages are swapped out to the backing store, and generates feature weights based on the charectaristics of those pages. In turn, it can figure out which kinds of files are less likely to be referenced, and could perhaps create a policy which is more effective based on this learning. That might be my thesis....
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
