@@ -7,13 +7,11 @@
 ---
 
 [Deep Learning and BlockuDuku](https://github.com/connorhaugh/MLBlockuDuku)
-<img src="images/EE64E0B8-6281-48F7-AF83-AD7BEE1F2BCA.jpeg"/>
 An attempt to solve the puzzle game Blockuduku,for which I wrote both the implmentation, a Q learning agent, and a Deep Q agent.
 
 ---
 
 [Q-Learning Pacman CTF](https://github.com/connorhaugh/CTFTEAM)
-<img src="images/EE64E0B8-6281-48F7-AF83-AD7BEE1F2BCA.jpeg"/>
 My Group's submission to Amherst's AI capture the flag tournament in the fall of 2019
 
 ---
