@@ -31,7 +31,7 @@ A Python project which allowed authenticated remote clients to manage a filesyst
 
 ---
 [My Journalism](https://amherststudent.com/author/connor-haugh-21)
-Collected Writings from my time as Managing Editor and Witer for the Amherst Student.
+Collected Writings from my time as Managing Editor and Writer for the Amherst Student.
 
 ---
 
